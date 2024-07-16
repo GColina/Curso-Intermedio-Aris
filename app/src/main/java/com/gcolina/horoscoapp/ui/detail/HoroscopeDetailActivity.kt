@@ -33,7 +33,7 @@ class HoroscopeDetailActivity : AppCompatActivity() {
     }
 
     private fun initUI() {
-        AinitListeners()
+        initListeners()
         initUIState()
     }
 
