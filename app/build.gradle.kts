@@ -66,6 +66,12 @@ dependencies {
     implementation(libs.retrofit2.converter.gson)
     implementation(libs.retrofit2.converter.retrofit)
     implementation(libs.logging.interceptor)
+    // Camera X
+    implementation(libs.androidx.camera.core)
+    implementation(libs.androidx.camera.camera2)
+    implementation(libs.androidx.camera.lifecycle)
+    implementation(libs.androidx.camera.view)
+    implementation(libs.androidx.camera.extensions)
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
