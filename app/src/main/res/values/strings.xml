@@ -2,8 +2,10 @@
     <string name="app_name">HoroscoApp</string>
 
 
-    <!--Share-->
+    <!--Share / Permission-->
     <string name="share">Share</string>
+    <string name="permission_denied">Acepta los permisos para poder disfrutar de una experiencia mágica</string>
+
 
     <!--    BottomBar-->
     <string name="horoscope">Horoscope</string>
